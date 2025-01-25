@@ -1,1 +1,6 @@
-streamlit
+gradio==3.23.0
+numpy
+torch
+pillow
+gdown
+# Add other dependencies like utils, pano, etc., if they are pip-installable
